@@ -48,7 +48,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                             display: flex;
                             justify-content: center;
                             align-items: center;
-                            background: url('https://cdn.voh.com.vn/vohpodcast/podcasts/thumbnail/2023/07/19/pmo_20230719090439.jpg?w=274&h=154') center center / cover no-repeat;
+                            background: url('https://i.pinimg.com/564x/0f/2b/2f/0f2b2f11e724ab39a81554d4620af67e.jpg') center center / cover no-repeat;
                             animation: flyiconAnimation 1s infinite;
                         }
 
