@@ -48,7 +48,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                             display: flex;
                             justify-content: center;
                             align-items: center;
-                            background: url('https://i.pinimg.com/564x/cf/54/fb/cf54fbf05d304f2d44b0882eba99f500.jpg') center center / cover no-repeat;
+                            background: url('https://cdn.voh.com.vn/vohpodcast/podcasts/thumbnail/2023/07/19/pmo_20230719090439.jpg?w=274&h=154') center center / cover no-repeat;
                             animation: flyiconAnimation 1s infinite;
                         }
 
@@ -75,7 +75,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                                 </svg>
                             </span>
                             <div class="msdigital-flyicon-2">
-                                <a target="_blank" rel="noopener noreferrer" href="https://voh.app/flyicon?utm_source=xsdp&utm_medium=notify&utm_campaign=flyicon&utm_id=xsdp_flyicon" style="display: block; width: 100%; height: 100%;"></a>
+                                <a target="_blank" rel="noopener noreferrer" href="https://voh.com.vn/podcast-vi-da-yeu-da-ton-thuong-nen-cang-so-phai-mo-long.NjM4MjUzNTQ5MTk5.html?utm_source=xsdp&utm_medium=notify&utm_campaign=flyicon&utm_id=xsdp_flyicon" style="display: block; width: 100%; height: 100%;"></a>
                                 <!-- Setting display:block and width/height: 100% to make the anchor clickable with full dimensions -->
                             </div>
                         </div>
