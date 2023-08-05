@@ -48,7 +48,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                             display: flex;
                             justify-content: center;
                             align-items: center;
-                            background: url('https://cdn.voh.com.vn/vohdata/default/2022/12/26/fm-999-mhz-lan-song-xanh-46_20221226163018.jpg?w=445&h=445') center center / cover no-repeat;
+                            background: url('https://cdn.voh.com.vn/vohpodcast/podcasts/thumbnail/2023/08/04/kim-tu-thap-giza_20230804090305.png') center center / cover no-repeat;
                             animation: flyiconAnimation 1s infinite;
                         }
 
@@ -75,7 +75,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                                 </svg>
                             </span>
                             <div class="msdigital-flyicon-2">
-                                <a target="_blank" rel="sponsored" href="https://voh.com.vn/radio-episode-bxh-lsx-tuan-1-thang-8-NjM4MjY2NTUzNzMz.html?utm_source=xsdp&utm_medium=notify&utm_campaign=flyicon&utm_id=xsdp_flyicon" style="display: block; width: 100%; height: 100%;"></a>
+                                <a target="_blank" rel="sponsored" href="https://voh.com.vn/podcast-dai-kim-tu-thap-giza-bi-an-suc-hap-dan-ky-quan-co-dai.NjM4MjY2ODg0NjUx.html?utm_source=xsdp&utm_medium=notify&utm_campaign=flyicon&utm_id=xsdp_flyicon" style="display: block; width: 100%; height: 100%;"></a>
                                 <!-- Setting display:block and width/height: 100% to make the anchor clickable with full dimensions -->
                             </div>
                         </div>
