@@ -48,7 +48,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                             display: flex;
                             justify-content: center;
                             align-items: center;
-                            background: url('https://i.pinimg.com/564x/0f/2b/2f/0f2b2f11e724ab39a81554d4620af67e.jpg') center center / cover no-repeat;
+                            background: url('https://cdn.tuoitre.vn/thumb_w/730/471584752817336320/2023/7/29/36380944119975349872658411074054145351932796n-16906017420401484048013.jpg') center center / cover no-repeat;
                             animation: flyiconAnimation 1s infinite;
                         }
 
@@ -75,7 +75,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                                 </svg>
                             </span>
                             <div class="msdigital-flyicon-2">
-                                <a target="_blank" rel="noopener noreferrer" href="https://voh.com.vn/podcast-vi-da-yeu-da-ton-thuong-nen-cang-so-phai-mo-long.NjM4MjUzNTQ5MTk5.html?utm_source=xsdp&utm_medium=notify&utm_campaign=flyicon&utm_id=xsdp_flyicon" style="display: block; width: 100%; height: 100%;"></a>
+                                <a target="_blank" rel="noopener noreferrer" href="https://voh.com.vn/chinh-tri-xa-hoi/diem-tin-sang-5-8-thue-tu-van-doc-lap-danh-gia-nguyen-nhan-ngap-cao-toc-ca-mac-tay-chan-mieng-dau-tien-phai-chay-ecmo-489893.html?utm_source=xsdp&utm_medium=notify&utm_campaign=flyicon&utm_id=xsdp_flyicon" style="display: block; width: 100%; height: 100%;"></a>
                                 <!-- Setting display:block and width/height: 100% to make the anchor clickable with full dimensions -->
                             </div>
                         </div>
