@@ -48,7 +48,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                             display: flex;
                             justify-content: center;
                             align-items: center;
-                            background: url('https://photo-cms-plo.epicdn.me/w850/Uploaded/2023/wpdhnwcjw/2023_08_04/trom-xe-may-quan-3-7219.jpg') center center / cover no-repeat;
+                            background: url('https://vtv1.mediacdn.vn/zoom/640_400/562122370168008704/2023/8/5/photo1691254064600-1691254064819920577554.jpg') center center / cover no-repeat;
                             animation: flyiconAnimation 1s infinite;
                         }
 
@@ -75,7 +75,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                                 </svg>
                             </span>
                             <div class="msdigital-flyicon-2">
-                                <a target="_blank" rel="sponsored" href="https://voh.com.vn/chinh-tri-xa-hoi/diem-tin-trua-5-8-hoc-sinh-lop-1-tai-tphcm-tuu-truong-ngay-21-8-1-minh-trom-4-xe-may-trong-dem-489934.html?utm_source=xsdp&utm_medium=notify&utm_campaign=flyicon&utm_id=xsdp_flyicon" style="display: block; width: 100%; height: 100%;"></a>
+                                <a target="_blank" rel="sponsored" href="https://voh.com.vn/chinh-tri-xa-hoi/diem-tin-sang-6-8-5-tour-duong-thuy-moi-tai-tphcm-mua-lon-gay-sut-lun-o-nhieu-dia-phuong-490027.html?utm_source=xsdp&utm_medium=notify&utm_campaign=flyicon&utm_id=xsdp_flyicon" style="display: block; width: 100%; height: 100%;"></a>
                                 <!-- Setting display:block and width/height: 100% to make the anchor clickable with full dimensions -->
                             </div>
                         </div>
