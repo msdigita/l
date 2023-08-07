@@ -48,7 +48,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                             display: flex;
                             justify-content: center;
                             align-items: center;
-                            background: url('https://cdn.voh.com.vn/vohpodcast/podcasts/thumbnail/2023/08/04/kim-tu-thap-giza_20230804090305.png') center center / cover no-repeat;
+                            background: url('https://photo-cms-baodauthau.epicdn.me/w750/Uploaded/2023/qjmfn/2023_03_02/01-6209.jpg') center center / cover no-repeat;
                             animation: flyiconAnimation 1s infinite;
                         }
 
@@ -75,7 +75,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                                 </svg>
                             </span>
                             <div class="msdigital-flyicon-2">
-                                <a target="_blank" rel="sponsored" href="https://voh.com.vn/podcast-dai-kim-tu-thap-giza-bi-an-suc-hap-dan-ky-quan-co-dai.NjM4MjY2ODg0NjUx.html?utm_source=xsdp&utm_medium=notify&utm_campaign=flyicon&utm_id=xsdp_flyicon" style="display: block; width: 100%; height: 100%;"></a>
+                                <a target="_blank" rel="sponsored" href="https://voh.com.vn/podcast-diem-tin-sang-78.NjM4MjY5NjM3NzA5.html?utm_source=xsdp&utm_medium=notify&utm_campaign=flyicon&utm_id=xsdp_flyicon" style="display: block; width: 100%; height: 100%;"></a>
                                 <!-- Setting display:block and width/height: 100% to make the anchor clickable with full dimensions -->
                             </div>
                         </div>
