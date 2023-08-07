@@ -16,9 +16,9 @@ function isWithinTimeRange(startHour, startMinute, endHour, endMinute) {
 
 // Check if the current time is within any of the restricted periods
 if (
-    !isWithinTimeRange(16, 13, 16, 37) &&
-    !isWithinTimeRange(17, 13, 17, 37) &&
-    !isWithinTimeRange(18, 13, 18, 37)
+    !isWithinTimeRange(16, 00, 16, 37) &&
+    !isWithinTimeRange(17, 00, 17, 37) &&
+    !isWithinTimeRange(18, 00, 18, 37)
 ) {
     // Place your advertising JS code here
     // This code will execute only when the current time is outside the specified ranges
