@@ -48,7 +48,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                             display: flex;
                             justify-content: center;
                             align-items: center;
-                            background: url('https://photo-cms-baodauthau.epicdn.me/w750/Uploaded/2023/qjmfn/2023_03_02/01-6209.jpg') center center / cover no-repeat;
+                            background: url('https://i.pinimg.com/750x/ee/4c/1b/ee4c1bc2f586c578395ba8f7f6955d3c.jpg') center center / cover no-repeat;
                             animation: flyiconAnimation 1s infinite;
                         }
 
