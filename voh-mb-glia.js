@@ -1,5 +1,4 @@
-<!-- Place this script at the appropriate location in your HTML file, before the advertising JS code -->
-<script>
+
 function isWithinTimeRange(startHour, startMinute, endHour, endMinute) {
     const now = new Date();
     const currentHour = now.getHours();
@@ -31,7 +30,3 @@ if (
 } else {
     console.log("Advertising code is not allowed during the restricted time.");
 }
-</script>
-<div class="gliaplayer-container"
-    data-slot="namviet_voh_mobile">
-</div>
