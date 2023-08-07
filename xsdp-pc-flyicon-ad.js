@@ -48,7 +48,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                             display: flex;
                             justify-content: center;
                             align-items: center;
-                            background: url('https://vtv1.mediacdn.vn/zoom/640_400/562122370168008704/2023/8/5/photo1691254064600-1691254064819920577554.jpg') center center / cover no-repeat;
+                            background: url('https://photo-cms-baodauthau.epicdn.me/w750/Uploaded/2023/qjmfn/2023_03_02/01-6209.jpg') center center / cover no-repeat;
                             animation: flyiconAnimation 1s infinite;
                         }
 
@@ -75,7 +75,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                                 </svg>
                             </span>
                             <div class="msdigital-flyicon-2">
-                                <a target="_blank" rel="sponsored" href="https://voh.com.vn/chinh-tri-xa-hoi/diem-tin-trua-6-8-can-thiet-co-duong-cao-toc-tphcm-da-lat-hon-82-400-o-to-nhap-khau-ve-viet-nam-490048.html?utm_source=xsdp&utm_medium=notify&utm_campaign=flyicon&utm_id=xsdp_flyicon" style="display: block; width: 100%; height: 100%;"></a>
+                                <a target="_blank" rel="sponsored" href="https://voh.com.vn/podcast-diem-tin-sang-78.NjM4MjY5NjM3NzA5.html?utm_source=xsdp&utm_medium=notify&utm_campaign=flyicon&utm_id=xsdp_flyicon" style="display: block; width: 100%; height: 100%;"></a>
                                 <!-- Setting display:block and width/height: 100% to make the anchor clickable with full dimensions -->
                             </div>
                         </div>
