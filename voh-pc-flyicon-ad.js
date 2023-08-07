@@ -48,7 +48,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                             display: flex;
                             justify-content: center;
                             align-items: center;
-                            background: url('https://cdn.voh.com.vn/vohpodcast/podcasts/thumbnail/2023/08/07/newlinhha-lenhi_20230807000448.jpg?w=870&h=489?w=445&h=445') center center / cover no-repeat;
+                            background: url('https://cdn.voh.com.vn/vohpodcast/podcasts/thumbnail/2023/08/07/newlinhha-lenhi_20230807000448.jpg') center center / cover no-repeat;
                             animation: flyiconAnimation 1s infinite;
                         }
 
