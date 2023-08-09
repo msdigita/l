@@ -48,7 +48,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                             display: flex;
                             justify-content: center;
                             align-items: center;
-                            background: url('https://image-us.24h.com.vn/upload/3-2019/images/2019-09-13/1568338391-371-sau-khi-boc-hoi-gan-3-gia-dau-the-gioi-tiep-da-giam-1-1568338296-width500height405.jpg') center center / cover no-repeat;
+                            background: url('https://cdnimg.vietnamplus.vn/uploaded/mzdic/2021_07_19/ttxvn_thu_truong_tien_1907.jpg') center center / cover no-repeat;
                             animation: flyiconAnimation 1s infinite;
                         }
 
@@ -75,7 +75,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                                 </svg>
                             </span>
                             <div class="msdigital-flyicon-2">
-                                <a target="_blank" rel="sponsored" href="https://voh.com.vn/chinh-tri-xa-hoi/diem-tin-trua-9-8-gia-xang-dau-trong-nuoc-kho-giam-xuat-khau-rau-qua-tang-manh-490448.html?utm_source=xsdp&utm_medium=notify&utm_campaign=flyicon&utm_id=xsdp_flyicon" style="display: block; width: 100%; height: 100%;"></a>
+                                <a target="_blank" rel="sponsored" href="https://voh.com.vn/chinh-tri-xa-hoi/thu-truong-phung-duc-tien-can-nhung-cu-hich-de-xuat-khau-thuy-san-dat-10-ty-usd-490475.html?utm_source=xsdp&utm_medium=notify&utm_campaign=flyicon&utm_id=xsdp_flyicon" style="display: block; width: 100%; height: 100%;"></a>
                                 <!-- Setting display:block and width/height: 100% to make the anchor clickable with full dimensions -->
                             </div>
                         </div>
