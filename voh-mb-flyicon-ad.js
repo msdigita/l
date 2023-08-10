@@ -48,7 +48,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                             display: flex;
                             justify-content: center;
                             align-items: center;
-                            background: url('https://cdnimg.vietnamplus.vn/uploaded/mzdic/2021_07_19/ttxvn_thu_truong_tien_1907.jpg') center center / cover no-repeat;
+                            background: url('https://cdn.tuoitre.vn/thumb_w/640/2021/2/18/kim-jong-un-president-16136163341331889429222.jpg') center center / cover no-repeat;
                             animation: flyiconAnimation 1s infinite;
                         }
 
