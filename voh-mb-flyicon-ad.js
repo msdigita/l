@@ -48,7 +48,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                             display: flex;
                             justify-content: center;
                             align-items: center;
-                            background: url('https://cdn.tuoitre.vn/thumb_w/640/2021/2/18/kim-jong-un-president-16136163341331889429222.jpg') center center / cover no-repeat;
+                            background: url('https://cdnx.voh.com.vn/voh/thumbnail/2023/08/11/THGTPSYQ4BJO3GXVI4C3ZBFSDQ.jpg?w=492&h=277') center center / cover no-repeat;
                             animation: flyiconAnimation 1s infinite;
                         }
 
@@ -75,7 +75,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                                 </svg>
                             </span>
                             <div class="msdigital-flyicon-2">
-                                <a target="_blank" rel="sponsored" href="https://voh.com.vn/the-gioi/tin-the-gioi-sang-10-8-trieu-tien-cach-chuc-tuong-quan-doi-hang-dau-niger-cao-buoc-phap-xam-pham-khong-phan-490546.html?utm_source=xsdp&utm_medium=notify&utm_campaign=flyicon&utm_id=xsdp_flyicon" style="display: block; width: 100%; height: 100%;"></a>
+                                <a target="_blank" rel="sponsored" href="https://voh.com.vn/the-gioi/tin-the-gioi-sang-11-8-nga-phong-tau-tham-hiem-mat-trang-sau-gan-50-nam-ha-lan-thu-giu-hon-8-tan-cocaine-lon-nhat-tu-truoc-den-nay-490689.html?utm_source=xsdp&utm_medium=notify&utm_campaign=flyicon&utm_id=xsdp_flyicon" style="display: block; width: 100%; height: 100%;"></a>
                                 <!-- Setting display:block and width/height: 100% to make the anchor clickable with full dimensions -->
                             </div>
                         </div>
