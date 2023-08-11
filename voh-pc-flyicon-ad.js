@@ -75,7 +75,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                                 </svg>
                             </span>
                             <div class="msdigital-flyicon-2">
-                                <a target="_blank" rel="sponsored" href="https://voh.com.vn/the-gioi/tin-the-gioi-sang-11-8-nga-phong-tau-tham-hiem-mat-trang-sau-gan-50-nam-ha-lan-thu-giu-hon-8-tan-cocaine-lon-nhat-tu-truoc-den-nay-490689.html?utm_source=xsdp&utm_medium=notify&utm_campaign=flyicon&utm_id=xsdp_flyicon" style="display: block; width: 100%; height: 100%;"></a>
+                                <a target="_blank" rel="sponsored" href="https://voh.com.vn/the-gioi/tin-the-gioi-sang-11-8-nga-phong-tau-tham-hiem-mat-trang-sau-gan-50-nam-ha-lan-thu-giu-hon-8-tan-cocaine-lon-nhat-tu-truoc-den-nay-490689.html?utm_source=voh.com.vn&utm_medium=notify&utm_campaign=flyicon&utm_id=xsdp_flyicon" style="display: block; width: 100%; height: 100%;"></a>
                                 <!-- Setting display:block and width/height: 100% to make the anchor clickable with full dimensions -->
                             </div>
                         </div>
