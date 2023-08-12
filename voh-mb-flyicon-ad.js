@@ -48,7 +48,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                             display: flex;
                             justify-content: center;
                             align-items: center;
-                            background: url('https://cdnx.voh.com.vn/voh/thumbnail/2023/08/11/THGTPSYQ4BJO3GXVI4C3ZBFSDQ.jpg?w=492&h=277') center center / cover no-repeat;
+                            background: url('https://pyxis.nymag.com/v1/imgs/27b/4d9/a3e90da46580db5ec6ee3e8061c85ae3cf-joe-biden.rsquare.w700.jpg') center center / cover no-repeat;
                             animation: flyiconAnimation 1s infinite;
                         }
 
@@ -75,7 +75,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                                 </svg>
                             </span>
                             <div class="msdigital-flyicon-2">
-                                <a target="_blank" rel="sponsored" href="https://voh.com.vn/the-gioi/tin-the-gioi-sang-11-8-nga-phong-tau-tham-hiem-mat-trang-sau-gan-50-nam-ha-lan-thu-giu-hon-8-tan-cocaine-lon-nhat-tu-truoc-den-nay-490689.html?utm_source=voh.com.vn&utm_medium=notify&utm_campaign=flyicon&utm_id=xsdp_flyicon" style="display: block; width: 100%; height: 100%;"></a>
+                                <a target="_blank" rel="sponsored" href="https://voh.com.vn/the-gioi/tin-the-gioi-sang-12-8-my-dieu-tra-dac-biet-con-trai-tong-thong-biden-my-trung-nhat-tri-tang-gap-doi-chuyen-bay-giua-hai-nuoc-490839.html?utm_source=voh.com.vn&utm_medium=notify&utm_campaign=flyicon&utm_id=xsdp_flyicon" style="display: block; width: 100%; height: 100%;"></a>
                                 <!-- Setting display:block and width/height: 100% to make the anchor clickable with full dimensions -->
                             </div>
                         </div>
