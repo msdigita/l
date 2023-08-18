@@ -48,7 +48,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                             display: flex;
                             justify-content: center;
                             align-items: center;
-                            background: url('https://image.voh.com.vn/voh/Image/2023/08/15/no-tram-xang-Nga.jpg?w=800&q=85') center center / cover no-repeat;
+                            background: url('https://upload.wikimedia.org/wikipedia/commons/c/c9/F-16_June_2008.jpg') center center / cover no-repeat;
                             animation: flyiconAnimation 1s infinite;
                         }
 
@@ -75,7 +75,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                                 </svg>
                             </span>
                             <div class="msdigital-flyicon-2">
-                                <a target="_blank" rel="sponsored" href="https://voh.com.vn/the-gioi/tin-the-gioi-sang-15-8-no-tram-xang-o-nga-khien-it-nhat-25-nguoi-chet-nui-lua-etna-phun-trao-o-italy-491189.html?utm_source=voh.com.vn&utm_medium=notify&utm_campaign=flyicon&utm_id=xsdp_flyicon" style="display: block; width: 100%; height: 100%;"></a>
+                                <a target="_blank" rel="sponsored" href="https://voh.com.vn/the-gioi/tin-the-gioi-sang-18-8-my-phe-duyet-chuyen-tiem-kich-f-16-cho-ukraine-dong-dat-manh-rung-chuyen-thu-do-colombia-491643.html?utm_source=voh.com.vn&utm_medium=notify&utm_campaign=flyicon&utm_id=xsdp_flyicon" style="display: block; width: 100%; height: 100%;"></a>
                                 <!-- Setting display:block and width/height: 100% to make the anchor clickable with full dimensions -->
                             </div>
                         </div>
