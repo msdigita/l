@@ -7,7 +7,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                         .msdigital-ads-box[data-msdigital-codeid="2"] {
                             position: fixed;
                             left: 18px;
-                            bottom: 10%;
+                            bottom: 40%;
                             z-index: 10000;
                         }
 
