@@ -39,17 +39,17 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                         }
 
                         .msdigital-flyicon-2 {
-                            width: 70px;
-                            height: 70px;
+                            width: 50px;
+                            height: 50px;
                             border-radius: 100%;
                             overflow: hidden;
                             transform: scale(1);
-                            transition: transform 0.5s ease;
+                            transition: transform 0.1s ease;
                             display: flex;
                             justify-content: center;
                             align-items: center;
                             background: url('https://cdnx.voh.com.vn/voh/Image/2023/08/20/THGTPSYQ4BJO3GXVI4C3ZBFSDQ.jpg') center center / cover no-repeat;
-                            animation: flyiconAnimation 1s infinite;
+                            animation: flyiconAnimation 2s infinite;
                         }
 
                         /* Add animation keyframes */
