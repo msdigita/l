@@ -48,7 +48,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                             display: flex;
                             justify-content: center;
                             align-items: center;
-                            background: url('https://cdnx.voh.com.vn/voh/Image/2023/08/20/THGTPSYQ4BJO3GXVI4C3ZBFSDQ.jpg') center center / cover no-repeat;
+                            background: url('https://nld.mediacdn.vn/291774122806476800/2021/9/30/photo-1-16329611413881369154011.jpg') center center / cover no-repeat;
                             animation: flyiconAnimation 2s infinite;
                         }
 
@@ -75,7 +75,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                                 </svg>
                             </span>
                             <div class="msdigital-flyicon-2">
-                                <a target="_blank" rel="sponsored" href="https://voh.com.vn/the-gioi/tin-the-gioi-sang-20-8-niger-canh-bao-hau-qua-neu-bi-can-thiep-quan-su-tau-tham-hiem-mat-trang-cua-nga-gap-su-co-491887.html?utm_source=voh.com.vn&utm_medium=notify&utm_campaign=flyicon&utm_id=xsdp_flyicon" style="display: block; width: 100%; height: 100%;"></a>
+                                <a target="_blank" rel="sponsored" href="https://voh.com.vn/the-gioi/tin-the-gioi-sang-21-8-lanh-dao-trieu-tien-giam-sat-phong-ten-lua-nga-canh-bao-neu-belarus-bi-tan-cong-491976.html?utm_source=voh.com.vn&utm_medium=notify&utm_campaign=flyicon&utm_id=xsdp_flyicon" style="display: block; width: 100%; height: 100%;"></a>
                                 <!-- Setting display:block and width/height: 100% to make the anchor clickable with full dimensions -->
                             </div>
                         </div>
