@@ -7,7 +7,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                         .msdigital-ads-box[data-msdigital-codeid="2"] {
                             position: fixed;
                             left: 18px;
-                            bottom: 40%;
+                            bottom: 10%;
                             z-index: 10000;
                         }
 
@@ -39,8 +39,8 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                         }
 
                         .msdigital-flyicon-2 {
-                            width: 50px;
-                            height: 50px;
+                            width: 70px;
+                            height: 70px;
                             border-radius: 100%;
                             overflow: hidden;
                             transform: scale(1);
@@ -48,7 +48,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                             display: flex;
                             justify-content: center;
                             align-items: center;
-                            background: url('https://cdnx.voh.com.vn/voh/Image/2023/08/23/video-iran-trinh-lang-uav-mohajer-10-723.png') center center / cover no-repeat;
+                            background: url('https://data.voh.com.vn/voh//adv/2023/08/24/flyicon-giao-dien-moi-06.png') center center / cover no-repeat;
                             animation: flyiconAnimation 2s infinite;
                         }
 
@@ -75,7 +75,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                                 </svg>
                             </span>
                             <div class="msdigital-flyicon-2">
-                                <a target="_blank" rel="sponsored" href="https://voh.com.vn/the-gioi/tin-the-gioi-sang-23-8-tim-thay-nhieu-thi-the-trong-dam-chay-rung-o-hy-lap-nga-chan-uav-cua-ukraine-tren-bien-den-492279.html?utm_source=voh.com.vn&utm_medium=notify&utm_campaign=flyicon&utm_id=xsdp_flyicon" style="display: block; width: 100%; height: 100%;"></a>
+                                <a target="_blank" rel="sponsored" href="https://beta.voh.com.vn/?utm_source=voh.com.vn&utm_medium=notify&utm_campaign=flyicon&utm_id=xsdp_flyicon" style="display: block; width: 100%; height: 100%;"></a>
                                 <!-- Setting display:block and width/height: 100% to make the anchor clickable with full dimensions -->
                             </div>
                         </div>
