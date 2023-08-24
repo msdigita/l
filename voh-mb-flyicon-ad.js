@@ -7,7 +7,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                         .msdigital-ads-box[data-msdigital-codeid="2"] {
                             position: fixed;
                             left: 18px;
-                            bottom: 40%;
+                            bottom: 10%;
                             z-index: 10000;
                         }
 
@@ -41,15 +41,15 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                         .msdigital-flyicon-2 {
                             width: 70px;
                             height: 70px;
-                            border-radius: 100%;
+                            border-radius: 0%;
                             overflow: hidden;
                             transform: scale(1);
-                            transition: transform 0.5s ease;
+                            transition: transform 0.1s ease;
                             display: flex;
                             justify-content: center;
                             align-items: center;
-                            background: url('https://cdnx.voh.com.vn/voh/Image/2023/08/20/THGTPSYQ4BJO3GXVI4C3ZBFSDQ.jpg') center center / cover no-repeat;
-                            animation: flyiconAnimation 1s infinite;
+                            background: url('https://data.voh.com.vn/voh//adv/2023/08/24/flyicon-giao-dien-moi-06.png') center center / cover no-repeat;
+                            animation: flyiconAnimation 2s infinite;
                         }
 
                         /* Add animation keyframes */
@@ -75,7 +75,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                                 </svg>
                             </span>
                             <div class="msdigital-flyicon-2">
-                                <a target="_blank" rel="sponsored" href="https://voh.com.vn/the-gioi/tin-the-gioi-sang-20-8-niger-canh-bao-hau-qua-neu-bi-can-thiep-quan-su-tau-tham-hiem-mat-trang-cua-nga-gap-su-co-491887.html?utm_source=voh.com.vn&utm_medium=notify&utm_campaign=flyicon&utm_id=xsdp_flyicon" style="display: block; width: 100%; height: 100%;"></a>
+                                <a target="_blank" rel="sponsored" href="https://beta.voh.com.vn/?utm_source=voh.com.vn&utm_medium=notify&utm_campaign=flyicon&utm_id=xsdp_flyicon" style="display: block; width: 100%; height: 100%;"></a>
                                 <!-- Setting display:block and width/height: 100% to make the anchor clickable with full dimensions -->
                             </div>
                         </div>
