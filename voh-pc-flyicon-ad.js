@@ -39,8 +39,8 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                         }
 
                         .msdigital-flyicon-2 {
-                            width: 70px;
-                            height: 70px;
+                            width: 120px;
+                            height: 120px;
                             border-radius: 0%;
                             overflow: hidden;
                             transform: scale(1);
