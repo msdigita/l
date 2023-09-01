@@ -77,8 +77,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                                 </svg>
                             </span>
                             <div class="msdigital-flyicon-2">
-                                <a target="_blank" rel="sponsored" href="https://beta.voh.com.vn/?utm_source=voh.com.vn&utm_medium=notify&utm_campaign=flyicon&utm_id=xsdp_flyicon" style="display: block; width: 100%; height: 100%;"></a>
-                                <!-- Setting display:block and width/height: 100% to make the anchor clickable with full dimensions -->
+                                <a target="_blank" rel="sponsored" href="${dynamicLink}" style="display: block; width: 100%; height: 100%;"></a>
                             </div>
                         </div>
                     </div>
