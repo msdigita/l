@@ -1,9 +1,13 @@
 customElements.define('flyicon-ad', class extends HTMLElement {
-            constructor() {
-                super();
-                const shadowRoot = this.attachShadow({ mode: 'open' });
-                shadowRoot.innerHTML = `
-                    <style>
+    constructor() {
+        super();
+        const shadowRoot = this.attachShadow({ mode: 'open' });
+        const currentArticleURL = window.location.href; // Get the current article URL
+        const baseURL = 'https://voh.com.vn';
+        const relativePath = currentArticleURL.replace(baseURL, ''); // Remove the base URL from the current URL
+        const dynamicLink = 'https://beta.voh.com.vn' + relativePath; // Construct the dynamic link
+        shadowRoot.innerHTML = `
+            <style>
                         .msdigital-ads-box[data-msdigital-codeid="2"] {
                             position: fixed;
                             left: 18px;
@@ -75,16 +79,16 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                                 </svg>
                             </span>
                             <div class="msdigital-flyicon-2">
-                                <a target="_blank" rel="sponsored" href="https://beta.voh.com.vn/?utm_source=voh.com.vn&utm_medium=notify&utm_campaign=flyicon&utm_id=xsdp_flyicon" style="display: block; width: 100%; height: 100%;"></a>
-                                <!-- Setting display:block and width/height: 100% to make the anchor clickable with full dimensions -->
+                                <a target="_blank" rel="sponsored" href="${dynamicLink}" style="display: block; width: 100%; height: 100%;"></a>
                             </div>
                         </div>
                     </div>
-                `;
+                
+        `;
 
-                // Add click event listener to close button
-                shadowRoot.querySelector('.msdigital-flyicon-btnclose-2').addEventListener('click', () => {
-                    this.style.display = 'none';
-                });
-            }
+        // Add click event listener to close button
+        shadowRoot.querySelector('.msdigital-flyicon-btnclose-2').addEventListener('click', () => {
+            this.style.display = 'none';
         });
+    }
+});
