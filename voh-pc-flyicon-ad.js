@@ -3,7 +3,9 @@ customElements.define('flyicon-ad', class extends HTMLElement {
         super();
         const shadowRoot = this.attachShadow({ mode: 'open' });
         const currentArticleURL = window.location.href; // Get the current article URL
-        const dynamicLink = 'https://beta.voh.com.vn' + currentArticleURL; // Construct the dynamic link
+        const baseURL = 'https://voh.com.vn';
+        const relativePath = currentArticleURL.replace(baseURL, ''); // Remove the base URL from the current URL
+        const dynamicLink = 'https://beta.voh.com.vn' + relativePath; // Construct the dynamic link
         shadowRoot.innerHTML = `
             <style>
                         .msdigital-ads-box[data-msdigital-codeid="2"] {
