@@ -4,6 +4,14 @@
         .random-ad img {
             display: none;
         }
+
+        #xsdp-promote-voh {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100%;
+        }
+
     `;
 
     var style = document.createElement('style');
