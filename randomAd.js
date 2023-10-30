@@ -21,10 +21,13 @@
 
     // HTML
     var html = `
-        <div class="random-ad"><a href="https://voh.com.vn/benh/cach-phan-biet-benh-thuy-dau-va-dau-mua-khi-500029.html?utm_source=xsdp&utm_medium=notify&utm_campaign=mobile_banner" title="Đậu mùa khỉ" rel="sponsored" target="_blank"> <img src="https://i.pinimg.com/originals/af/3c/9d/af3c9d528ad73b7d78b2b3a5415b1f57.jpg"> </a></div>
-<div class="random-ad"><a href="https://voh.com.vn/benh/nguon-goc-va-con-duong-lay-truyen-cua-benh-dau-mua-khi-500021.html?utm_source=xsdp&utm_medium=notify&utm_campaign=mobile_banner" title="Đậu mùa khỉ" rel="sponsored" target="_blank"> <img src="https://i.pinimg.com/originals/cb/cd/e7/cbcde7ad32059846e1c3c31757af275b.jpg"> </a></div>
-<div class="random-ad"><a href="https://voh.com.vn/khoe/dau-hieu-dac-trung-cua-benh-dau-mua-khi-va-cach-phong-ngua-500127.html?utm_source=xsdp&utm_medium=notify&utm_campaign=mobile_banner" title="Đậu mùa khỉ" rel="sponsored" target="_blank"> <img src="https://i.pinimg.com/originals/67/85/f7/6785f7959df4299395305049456306bc.jpg"> </a></div>
-    `;
+        <div class="random-ad"><a href="https://voh.com.vn/benh/tai-sao-khi-dau-mat-do-nen-deo-kinh-ram-va-khau-trang-500592.html" title="Đau mắt đỏ - phòng ngừa" rel="sponsored" target="_blank"> <img src="https://i.pinimg.com/originals/34/2e/6e/342e6e3ed60eabbb3e00ecb7b4c1f43f.jpg"> </a></div>
+<div class="random-ad"><a href="https://voh.com.vn/benh/dau-mat-do-co-bi-lai-khong-bao-lau-thi-khoi-500614.html" title="Đau mắt đỏ - có bị lại không" rel="sponsored" target="_blank"> <img src="https://i.pinimg.com/originals/e3/a6/08/e3a6083aa1e0b2ab05b006d2a4007acb.jpg"> </a></div>
+<div class="random-ad"><a href="https://voh.com.vn/benh/me-bau-phu-nu-dang-cho-con-bu-bi-dau-mat-do-nen-lam-gi-500615.html" title="Đau mắt đỏ - bà bầu, phụ nữ mang thai" rel="sponsored" target="_blank"> <img src="https://i.pinimg.com/originals/21/c3/ea/21c3ea0c51839be1daa8a0112f813627.jpg"> </a></div>
+<div class="random-ad"><a href="https://voh.com.vn/benh/dau-mat-do-khi-nao-can-di-kham-btv143-500607.html" title="Đau mắt đỏ - Khi nào đi khám?" rel="sponsored" target="_blank"> <img src="https://i.pinimg.com/originals/2a/e5/da/2ae5da2d11b614662a575da84288571d.jpg"> </a></div>
+<div class="random-ad"><a href="https://voh.com.vn/benh/sai-lam-trong-dieu-tri-dau-mat-do-va-cach-dieu-tri-tai-nha-btv143-500631.html" title="Đau mắt đỏ - Sai lầm điều trị " rel="sponsored" target="_blank"> <img src="https://i.pinimg.com/originals/1c/5d/fd/1c5dfdd7a9cc891f1187a3539fc63d62.jpg"> </a></div>
+<div class="random-ad"><a href="https://voh.com.vn/benh/can-trong-khi-rua-mat-voi-nuoc-muoi-sinh-ly-btv143-500573.html" title="Đau mắt đỏ - Cách rửa mắt " rel="sponsored" target="_blank"> <img src="https://i.pinimg.com/originals/ac/29/f6/ac29f6f573f1f9b95675b3c7ee4e1908.jpg"> </a></div>
+`;
 
     // Chèn HTML vào thẻ <div id="xsdp-promote-voh">
     var targetDiv = document.getElementById('xsdp-promote-voh');
