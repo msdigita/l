@@ -3,13 +3,15 @@
     var css = `
         .random-ad img {
             display: none;
+            max-height: 120px;
+            width: auto;  
         }
 
         #xsdp-promote-voh {
             display: flex;
             justify-content: center;
             align-items: center;
-            height: 120px;
+            height: 100%;
             margin-top: 20px;
         }
 
