@@ -9,7 +9,7 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            height: 100%;
+            height: 120px;
             margin-top: 20px;
         }
 
