@@ -3,8 +3,6 @@
     var css = `
         .random-ad img {
             display: none;
-            max-height: 120px;
-            width: auto;  
         }
 
         #xsdp-promote-voh {
