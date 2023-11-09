@@ -33,6 +33,9 @@
 <div class="random-ad"><a href="https://voh.com.vn/benh/soc-trong-sot-xuat-huyet-nguy-hiem-the-nao-lam-sao-nhan-biet-501921.html?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Sốt xuất huyết - sốc sốt huyết" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/mc2bJpH.jpeg"> </a></div>
 <div class="random-ad"><a href="https://voh.com.vn/benh/dieu-tri-sot-xuat-huyet-tai-nha-va-nhung-sai-lam-thuong-gap-501890.html?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Sốt xuất huyết - điều trị" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/eRMsA23.jpeg"> </a></div>
 <div class="random-ad"><a href="https://voh.com.vn/benh/sot-xuat-huyet-khi-mang-thai-co-nguy-hiem-va-gay-di-tat-thai-nhi-501937.html?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Sốt xuất huyết - bà bầu" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/yoaxbn5.jpeg"> </a></div>
+<div class="random-ad"><a href="https://gamengon.net/?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Game Ngon .net" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/E2p3Ri8.png"> </a></div>
+<div class="random-ad"><a href="https://gamengon.net/?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Game Ngon .net" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/E2p3Ri8.png"> </a></div>
+<div class="random-ad"><a href="https://gamengon.net/?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Game Ngon .net" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/E2p3Ri8.png"> </a></div>
 `;
     var targetDiv = document.getElementById('xsdp-promote-voh');
     if (targetDiv) {
