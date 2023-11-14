@@ -2,11 +2,11 @@
     var css = `
         .random-ad img {
             display: none;
-            max-height: 120px;
+            max-height: 100px;
             width: auto;  
         }
 
-        #xsdp-promote-voh {
+        #xsdp-promote-voh1 {
             display: flex;
             justify-content: center;
             align-items: center;
@@ -34,7 +34,7 @@
 <div class="random-ad"><a href="https://gamengon.net/?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Game Ngon .net" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/E2p3Ri8.png"> </a></div>
 <div class="random-ad"><a href="https://gamengon.net/?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Game Ngon .net" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/E2p3Ri8.png"> </a></div>
 `;
-    var targetDiv = document.getElementById('xsdp-promote-voh');
+    var targetDiv = document.getElementById('xsdp-promote-voh1');
     if (targetDiv) {
         targetDiv.innerHTML = html;
     }
