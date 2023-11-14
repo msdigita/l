@@ -1,6 +1,6 @@
 (function() {
     var html = `
-        <div id="xsdp-promote-voh">
+        
             <style>
                 .random-ad img {
                     display: none;
@@ -28,7 +28,7 @@
             <div class="random-ad"><a href="https://gamengon.net/?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Game Ngon .net" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/E2p3Ri8.png"> </a></div>
             <div class="random-ad"><a href="https://gamengon.net/?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Game Ngon .net" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/E2p3Ri8.png"> </a></div>
 
-        </div>
+        
     `;
 
     var targetDiv = document.getElementById('xsdp-promote-voh');
