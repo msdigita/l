@@ -2,7 +2,7 @@
     var css = `
         .random-ad img {
             display: none;
-            max-height: 120px;
+            max-height: 100px;
             width: auto;  
         }
 
