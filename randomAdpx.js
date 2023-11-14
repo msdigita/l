@@ -1,6 +1,5 @@
 (function() {
     var html = `
-        
             <style>
                 .random-ad img {
                     display: none;
@@ -49,7 +48,7 @@
         targetDiv1.innerHTML = html;
 
         window.onload = function() {
-            let ads = targetDiv.querySelectorAll('.random-ad');
+            let ads = targetDiv1.querySelectorAll('.random-ad');
             let randomAdIndex = Math.floor(Math.random() * ads.length);
             let selectedAd = ads[randomAdIndex];
             let imageInSelectedAd = selectedAd.querySelector('img');
