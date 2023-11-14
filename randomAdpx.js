@@ -7,7 +7,7 @@
                     width: auto;
                 }
 
-                #xsdp-promote-voh {
+                #xsdp-promote-voh, #xsdp-promote-voh1 {
                     display: flex;
                     justify-content: center;
                     align-items: center;
