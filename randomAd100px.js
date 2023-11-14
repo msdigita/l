@@ -1,6 +1,6 @@
 (function() {
     var css = `
-        #xsdp-promote-voh1 .random-ad1 img {
+        .random-ad1 img {
             display: none;
             max-height: 100px;
             width: auto;  
