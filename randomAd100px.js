@@ -1,5 +1,5 @@
 (function() {
-    var css = `
+    var css1 = `
         .random-ad1 img {
             display: none;
             max-height: 100px;
@@ -16,12 +16,12 @@
 
     `;
 
-    var style = document.createElement('style');
-    style.type = 'text/css';
-    style.appendChild(document.createTextNode(css));
-    document.head.appendChild(style);
+    var style1 = document.createElement('style');
+    style1.type = 'text/css';
+    style1.appendChild(document.createTextNode(css1));
+    document.head.appendChild(style1);
 
-    var html = `
+    var html1 = `
         <div class="random-ad1"><a href="https://voh.com.vn/tin-sao/vinh-rau-faptv-thua-nhan-cang-thang-khi-lam-viec-voi-huynh-phuong-btv64-486661.html?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Vinh Râu" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/g6cLO5e.png"> </a></div>
 <div class="random-ad1"><a href="https://voh.com.vn/tin-sao/thuy-kieu-faptv-7-nam-dong-hanh-cung-faptv-biet-ro-con-nguoi-that-huynh-phuong-btv134-486793.html?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Thúy Kiều" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/RF0fsdS.png"> </a></div>
 <div class="random-ad1"><a href="https://voh.com.vn/show/hau-truong-tet-o-lang-dia-nguc-quang-tuan-chay-mau-cam-vi-lanh-nguyen-thao-khong-dam-noi-chuyen-voi-vo-tan-phat-btv64-501432.html?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Dàn sao Tết Ở Làng Địa Ngục" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/8QTZKN6.png"> </a></div>
@@ -36,11 +36,11 @@
 `;
     var targetDiv1 = document.getElementById('xsdp-promote-voh1');
     if (targetDiv1) {
-        targetDiv1.innerHTML = html;
+        targetDiv1.innerHTML = html1;
     }
     window.onload = function() {
         var ads1 = targetDiv1.querySelectorAll('.random-ad1');
-        var randomAdIndex1 = Math.floor(Math.random() * ads.length);
+        var randomAdIndex1 = Math.floor(Math.random() * ads1.length);
         var selectedAd1 = ads[randomAdIndex1];
         var imageInSelectedAd1 = selectedAd1.querySelector('img');
         imageInSelectedAd1.style.display = 'block';
