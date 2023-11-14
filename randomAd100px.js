@@ -1,6 +1,6 @@
 (function() {
     var css = `
-        .random-ad1 img {
+        #xsdp-promote-voh1 .random-ad1 img {
             display: none;
             max-height: 100px;
             width: auto;  
@@ -39,10 +39,10 @@
         targetDiv1.innerHTML = html;
     }
     window.onload = function() {
-        var ads = targetDiv1.querySelectorAll('.random-ad1');
-        var randomAdIndex = Math.floor(Math.random() * ads.length);
-        var selectedAd = ads[randomAdIndex];
-        var imageInSelectedAd = selectedAd.querySelector('img');
-        imageInSelectedAd.style.display = 'block';
+        var ads1 = targetDiv1.querySelectorAll('.random-ad1');
+        var randomAdIndex1 = Math.floor(Math.random() * ads.length);
+        var selectedAd1 = ads[randomAdIndex1];
+        var imageInSelectedAd1 = selectedAd1.querySelector('img');
+        imageInSelectedAd1.style.display = 'block';
     };
 })();
