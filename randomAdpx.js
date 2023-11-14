@@ -7,7 +7,7 @@
                     width: auto;
                 }
 
-                #xsdp-promote-voh, #xsdp-promote-voh1 {
+                #xsdp-promote-voh {
                     display: flex;
                     justify-content: center;
                     align-items: center;
@@ -31,24 +31,12 @@
     `;
 
     var targetDiv = document.getElementById('xsdp-promote-voh');
-    var targetDiv1 = document.getElementById('xsdp-promote-voh1');
 
     if (targetDiv) {
         targetDiv.innerHTML = html;
 
         window.onload = function() {
             let ads = targetDiv.querySelectorAll('.random-ad');
-            let randomAdIndex = Math.floor(Math.random() * ads.length);
-            let selectedAd = ads[randomAdIndex];
-            let imageInSelectedAd = selectedAd.querySelector('img');
-            imageInSelectedAd.style.display = 'block';
-        };
-    }
-    if (targetDiv1) {
-        targetDiv1.innerHTML = html;
-
-        window.onload = function() {
-            let ads = targetDiv1.querySelectorAll('.random-ad');
             let randomAdIndex = Math.floor(Math.random() * ads.length);
             let selectedAd = ads[randomAdIndex];
             let imageInSelectedAd = selectedAd.querySelector('img');
