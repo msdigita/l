@@ -12,7 +12,7 @@
                     justify-content: center;
                     align-items: center;
                     height: 100%;
-                    margin-top: 20px;
+                    margin-top: 5px;
                 }
             </style>
             <div class="random-ad"><a href="https://voh.com.vn/tin-sao/vinh-rau-faptv-thua-nhan-cang-thang-khi-lam-viec-voi-huynh-phuong-btv64-486661.html?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Vinh Râu" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/g6cLO5e.png"> </a></div>
