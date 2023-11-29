@@ -15,10 +15,10 @@
                     margin-top: 5px;
                 }
             </style>
-            <div class="random-ad"><a href="https://voh.com.vn/show/nguoi-vo-cuoi-cung-nhung-cau-chuyen-thu-vi-trong-qua-trinh-lam-phim-lan-dau-duoc-tiet-lo-502269.html?utm_source=xsdp&utm_medium=notify&utm_campaign=mobile_banner?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Dàn sao Người Vợ Cuối Cùng" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/5ov2j43.png"> </a></div>
-<div class="random-ad"><a href="https://voh.com.vn/show/fabo-nguyen-dinh-chinh-tuoi-that-quyet-chup-thuoc-me-vo-vi-btv134-503105.html?utm_source=xsdp&utm_medium=notify&utm_campaign=mobile_banner?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Fabo Nguyễn" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/yz9YVng.png"> </a></div>
-<div class="random-ad"><a href="https://voh.com.vn/benh/tre-bi-tay-chan-mieng-roi-co-mac-lai-khong-502903.html?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Tay chân miệng - có bị lại không" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/6fOrd2r.jpeg"> </a></div>
-<div class="random-ad"><a href="https://voh.com.vn/benh/nguoi-lon-mac-tay-chan-mieng-dung-chu-quan-502972.html?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Tay chân miệng - người lớn" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/zwAjQ4o.jpeg"> </a></div>
+            <div class="random-ad"><a href="https://voh.com.vn/show/ca-si-han-quoc-jin-ju-no-luc-di-len-bang-thuc-luc-hanh-phuc-khi-hoat-dong-o-viet-nam-btv64-502256.html?utm_source=xsdp&utm_medium=notify&utm_campaign=mobile_banner?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Ca sĩ Jin Ju" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/9kRYXY5.png"> </a></div>
+<div class="random-ad"><a href="https://voh.com.vn/show/olew-tiet-lo-ly-do-vi-sao-den-gio-van-khong-co-quan-ly-cu-mot-minh-tu-boi-btv053-500969.html?utm_source=xsdp&utm_medium=notify&utm_campaign=mobile_banner?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="O.LEW" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/IaL6Sb1.png"> </a></div>
+<div class="random-ad"><a href="https://voh.com.vn/benh/tre-bi-bien-chung-lo-loet-vi-cha-me-tu-dieu-tri-tay-chan-mieng-503045.html?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Tay chân miệng - lở loét nặng" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/Y3UjQoy.jpeg"> </a></div>
+<div class="random-ad"><a href="https://voh.com.vn/benh/bien-chung-nguy-hiem-cua-benh-tay-chan-mieng-502520.html?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Tay chân miệng - biến chứng nguy hiểm" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/1itmiR6.jpeg"> </a></div>
 `;
 
     var targetDiv = document.getElementById('xsdp-promote-voh');
