@@ -1,4 +1,5 @@
-document.addEventListener("DOMContentLoaded", function() {
+(function(){
+  document.addEventListener("DOMContentLoaded", function() {
   // Chèn mã vào thẻ <head>
   var headScript = document.createElement('script');
   headScript.type = 'text/javascript';
@@ -32,3 +33,5 @@ document.addEventListener("DOMContentLoaded", function() {
   bodyScript.innerHTML = 'window._taboola = window._taboola || []; _taboola.push({flush: true});';
   document.body.appendChild(bodyScript);
 });
+
+})();
