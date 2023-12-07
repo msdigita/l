@@ -15,10 +15,11 @@
                     margin-top: 5px;
                 }
             </style>
-            <div class="random-ad"><a href="https://voh.com.vn/show/ca-si-han-quoc-jin-ju-no-luc-di-len-bang-thuc-luc-hanh-phuc-khi-hoat-dong-o-viet-nam-btv64-502256.html?utm_source=xsdp&utm_medium=notify&utm_campaign=mobile_banner?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Ca sĩ Jin Ju" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/9kRYXY5.png"> </a></div>
-<div class="random-ad"><a href="https://voh.com.vn/show/olew-tiet-lo-ly-do-vi-sao-den-gio-van-khong-co-quan-ly-cu-mot-minh-tu-boi-btv053-500969.html?utm_source=xsdp&utm_medium=notify&utm_campaign=mobile_banner?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="O.LEW" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/IaL6Sb1.png"> </a></div>
-<div class="random-ad"><a href="https://voh.com.vn/benh/tre-bi-bien-chung-lo-loet-vi-cha-me-tu-dieu-tri-tay-chan-mieng-503045.html?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Tay chân miệng - lở loét nặng" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/Y3UjQoy.jpeg"> </a></div>
-<div class="random-ad"><a href="https://voh.com.vn/benh/bien-chung-nguy-hiem-cua-benh-tay-chan-mieng-502520.html?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Tay chân miệng - biến chứng nguy hiểm" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/1itmiR6.jpeg"> </a></div>
+            <div class="random-ad"><a href="https://voh.com.vn/benh/test-vi-khuan-hp-bang-nuoc-bot-phan-khoa-hoc-mat-ve-sinh-506115.html?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Vi khuẩn HP - Test nước bọt" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/fjJHbuT.jpeg"> </a></div>
+<div class="random-ad"><a href="https://voh.com.vn/benh/dung-cay-rau-muong-chua-vi-khuan-hp-co-duoc-khong-506101.html?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Vi khuẩn HP - Dùng rau mương diệt HP" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/qLlIPlD.jpeg"> </a></div>
+<div class="random-ad"><a href="https://voh.com.vn/benh/co-phai-nguoi-bi-nhiem-khuan-hp-deu-se-bi-ung-thu-da-day-506021.html?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Vi khuẩn HP - Nhiễm HP bị ung thư" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/f56d4kn.jpeg"> </a></div>
+<div class="random-ad"><a href="https://voh.com.vn/benh/dung-chung-dua-muong-voi-nguoi-benh-da-day-co-lay-khong-505988.html?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Vi khuẩn HP - Ăn uống bị lây " rel="sponsored" target="_blank"> <img src="https://i.imgur.com/HkYBEC8.jpeg"> </a></div>
+<div class="random-ad"><a href="https://voh.com.vn/benh/am-tinh-gia-voi-vi-khuan-hp-nguy-hiem-nhu-the-nao-506109.html?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Vi khuẩn HP - Âm tính giả" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/Ip8oJXR.jpeg"> </a></div>
 `;
 
     var targetDiv = document.getElementById('xsdp-promote-voh');
