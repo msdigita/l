@@ -15,10 +15,11 @@
                     margin-top: 5px;
                 }
             </style>
-            <div class="random-ad"><a href="https://voh.com.vn/benh/dieu-can-biet-ve-benh-phoi-trang-dang-bung-phat-nhieu-nuoc-508290.html?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Hội chứng phổi trắng - Điều cần biết" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/aCNlRK6.jpeg"> </a></div>
-<div class="random-ad"><a href="https://voh.com.vn/benh/chua-benh-phoi-trang-bang-cay-thuoc-doi-co-nguy-hiem-508278.html?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Hội chứng phổi trắng - Chữa bệnh" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/6DPg84a.jpeg"> </a></div>
-<div class="random-ad"><a href="https://voh.com.vn/benh/mycoplasma-nguyen-nhan-hang-dau-gay-benh-phoi-trang-o-nhieu-noi-508307.html?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Hội chứng phổi trắng - Nguyên nhân" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/jsgCZxi.jpeg"> </a></div>
-<div class="random-ad"><a href="https://voh.com.vn/benh/cach-nhan-biet-nhiem-khuan-mycoplasma-508305.html?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Hội chứng phổi trắng - Cách nhận biết" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/tZYTvRU.jpeg"> </a></div>`;
+            <div class="random-ad"><a href="https://voh.com.vn/benh/cach-nhan-biet-nhiem-khuan-mycoplasma-508305.html?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Hội chứng phổi trắng - Cách nhận biết" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/tZYTvRU.jpeg"> </a></div>
+<div class="random-ad"><a href="https://voh.com.vn/benh/con-duong-lay-truyen-va-bien-chung-khi-nhiem-mycoplasma-508376.html?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Hội chứng phổi trắng - Đường lây nhiễm" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/Ktqcmz0.jpeg"> </a></div>
+<div class="random-ad"><a href="https://voh.com.vn/benh/corticoid-con-dao-hai-luoi-voi-benh-phoi-trang-508381.html?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Hội chứng phổi trắng - Thuốc Corticoid" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/9n7ThRA.jpeg"> </a></div>
+<div class="random-ad"><a href="https://voh.com.vn/benh/cach-dung-thuoc-va-phong-benh-phoi-trang-do-mycoplasma-508403.html?utm_source=xsdp&utm_medium=&utm_campaign=mobile_banner" title="Hội chứng phổi trắng - Phòng bệnh" rel="sponsored" target="_blank"> <img src="https://i.imgur.com/5tWnQi4.jpeg"> </a></div>
+`;
 
     var targetDiv = document.getElementById('xsdp-promote-voh');
 
