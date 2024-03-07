@@ -48,7 +48,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                             display: flex;
                             justify-content: center;
                             align-items: center;
-                            background: url('https://data.voh.com.vn/voh//adv/2023/08/24/flyicon-giao-dien-moi-06.png') center center / cover no-repeat;
+                            background: url('https://i.imgur.com/ijl65oy.gif') center center / cover no-repeat;
                             animation: flyiconAnimation 2s infinite;
                         }
 
@@ -75,7 +75,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                                 </svg>
                             </span>
                             <div class="msdigital-flyicon-2">
-                                <a target="_blank" rel="sponsored" href="https://beta.voh.com.vn/?utm_source=voh.com.vn&utm_medium=notify&utm_campaign=flyicon&utm_id=xsdp_flyicon" style="display: block; width: 100%; height: 100%;"></a>
+                                <a target="_blank" rel="sponsored" href="https://aios.soinluck.com/scene?sk=q82bd2f13bd46e967" style="display: block; width: 100%; height: 100%;"></a>
                                 <!-- Setting display:block and width/height: 100% to make the anchor clickable with full dimensions -->
                             </div>
                         </div>
