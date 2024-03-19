@@ -1,3 +1,9 @@
+/*
+CÁCH ĐẶT CODE:
+<div id="xsdp-promote-voh" style="height:100px;"></div>
+<script src="https://msdigita.github.io/l/randomAd.js"></script>
+*/
+
 (function() {
     var html = `
             <style>
