@@ -49,7 +49,7 @@
                             display: flex;
                             justify-content: center;
                             align-items: center;
-                            background: url('https://i.pinimg.com/750x/01/87/32/01873262157d1826c9c6656c2c6e6b88.jpg') center center / cover no-repeat;
+                            background: url('https://i.imgur.com/ijl65oy.gif') center center / cover no-repeat;
                             animation: flyiconAnimation 1s infinite;
                         }
 
@@ -76,7 +76,7 @@
                                 </svg>
                             </span>
                             <div class="msdigital-flyicon-2">
-                                <a target="_blank" rel="noopener noreferrer" href="https://youtu.be/T0zPhOjSfiI?t=19" style="display: block; width: 100%; height: 100%;"></a>
+                                <a target="_blank" rel="noopener noreferrer" href="https://aios.soinluck.com/scene?sk=q82bd2f13bd46e967" style="display: block; width: 100%; height: 100%;"></a>
                                 <!-- Setting display:block and width/height: 100% to make the anchor clickable with full dimensions -->
                             </div>
                         </div>
