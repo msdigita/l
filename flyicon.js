@@ -1,4 +1,4 @@
-<script>
+
         customElements.define('flyicon-ad', class extends HTMLElement {
             constructor() {
                 super();
@@ -84,4 +84,3 @@
                 `;
             }
         });
-    </script>
