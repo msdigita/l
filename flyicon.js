@@ -9,9 +9,9 @@ customElements.define('flyicon-ad', class extends HTMLElement {
         
         // Check if current time is within the specified time ranges
         const isInActiveTimeRange = (
-            (currentHour === 16 && currentMinute >= 15 && currentMinute < 30) ||
-            (currentHour === 17 && currentMinute >= 15 && currentMinute < 30) ||
-            (currentHour === 18 && currentMinute >= 15 && currentMinute < 30)
+            (currentHour === 16 && currentMinute >= 5 && currentMinute < 35) ||
+            (currentHour === 17 && currentMinute >= 5 && currentMinute < 35) ||
+            (currentHour === 18 && currentMinute >= 5 && currentMinute < 35)
         );
 
         // If current time is not within the active time ranges, do not display the flyicon
