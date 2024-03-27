@@ -105,7 +105,7 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                     // Remove the flyicon when the close button is clicked
                     this.remove();
                 });
-            }, 15000); // Delay of 15 seconds (15000 milliseconds)
+            }, 10000); // Delay of 15 seconds (15000 milliseconds)
         } else {
             // If current time is within the active time ranges, do not display the flyicon
             this.remove();
