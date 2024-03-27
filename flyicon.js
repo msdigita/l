@@ -1,10 +1,25 @@
 customElements.define('flyicon-ad', class extends HTMLElement {
     constructor() {
         super();
-        setTimeout(() => {
-            const shadowRoot = this.attachShadow({ mode: 'open' });
-            shadowRoot.innerHTML = `
-                <!-- CSS styles for flyicon -->
+        // Get current time
+        const currentTime = new Date();
+        // Get current hour and minute
+        const currentHour = currentTime.getHours();
+        const currentMinute = currentTime.getMinutes();
+        
+        // Check if current time is within the specified time ranges
+        const isInActiveTimeRange = (
+            (currentHour === 16 && currentMinute >= 15 && currentMinute < 30) ||
+            (currentHour === 17 && currentMinute >= 15 && currentMinute < 30) ||
+            (currentHour === 18 && currentMinute >= 15 && currentMinute < 30)
+        );
+
+        // If current time is not within the active time ranges, do not display the flyicon
+        if (!isInActiveTimeRange) {
+            setTimeout(() => {
+                const shadowRoot = this.attachShadow({ mode: 'open' });
+                shadowRoot.innerHTML = `
+                    <!-- CSS styles for flyicon -->
                     <style>
                         .msdigital-ads-box[data-msdigital-codeid="2"] {
                             position: fixed;
@@ -68,28 +83,32 @@ customElements.define('flyicon-ad', class extends HTMLElement {
                         }
                     </style>
 
-                <!-- HTML content for the flyicon -->
-                <div class="msdigital-ads-box" data-msdigital-codeid="2" class="msdigital-type-flyicon">
-                    <div class="msdigital-flyicon-box">
-                        <span class="msdigital-flyicon-btnclose-2">
-                            <svg viewBox="0 0 16 16" stroke="#EE4D2D" class="home-popup__close-button" style="height: 15px; width: 15px; stroke: rgba(0, 0, 0, 0.5); stroke-width: 2px;">
-                                <path stroke-linecap="round" d="M1.1,1.1L15.2,15.2"></path>
-                                <path stroke-linecap="round" d="M15,1L0.9,15.1"></path>
-                            </svg>
-                        </span>
-                        <div class="msdigital-flyicon-2">
-                            <a target="_blank" rel="noopener noreferrer" href="https://aios.soinluck.com/scene?sk=q82bd2f13bd46e967" style="display: block; width: 100%; height: 100%;"></a>
+                    <!-- HTML content for the flyicon -->
+                    <div class="msdigital-ads-box" data-msdigital-codeid="2" class="msdigital-type-flyicon">
+                        <div class="msdigital-flyicon-box">
+                            <span class="msdigital-flyicon-btnclose-2">
+                                <svg viewBox="0 0 16 16" stroke="#EE4D2D" class="home-popup__close-button" style="height: 15px; width: 15px; stroke: rgba(0, 0, 0, 0.5); stroke-width: 2px;">
+                                    <path stroke-linecap="round" d="M1.1,1.1L15.2,15.2"></path>
+                                    <path stroke-linecap="round" d="M15,1L0.9,15.1"></path>
+                                </svg>
+                            </span>
+                            <div class="msdigital-flyicon-2">
+                                <a target="_blank" rel="noopener noreferrer" href="https://aios.soinluck.com/scene?sk=q82bd2f13bd46e967" style="display: block; width: 100%; height: 100%;"></a>
+                            </div>
                         </div>
                     </div>
-                </div>
-            `;
+                `;
 
-            // Select the close button and add click event listener
-            const closeButton = shadowRoot.querySelector('.msdigital-flyicon-btnclose-2');
-            closeButton.addEventListener('click', () => {
-                // Remove the flyicon when the close button is clicked
-                this.remove();
-            });
-        }, 15000); // Delay of 15 seconds (15000 milliseconds)
+                // Select the close button and add click event listener
+                const closeButton = shadowRoot.querySelector('.msdigital-flyicon-btnclose-2');
+                closeButton.addEventListener('click', () => {
+                    // Remove the flyicon when the close button is clicked
+                    this.remove();
+                });
+            }, 15000); // Delay of 15 seconds (15000 milliseconds)
+        } else {
+            // If current time is within the active time ranges, do not display the flyicon
+            this.remove();
+        }
     }
 });
